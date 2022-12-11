@@ -8,5 +8,5 @@ jest [Jest · Delightful JavaScript Testing](https://jestjs.io)
 
 # results
 
-![All tests](/results/Capturevisual.PNG "All tests")
+![All tests](/Capturevisual.PNG "All tests")
 
